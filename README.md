@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaiParthishMandumula
+- 👋 Hi, I’m @Sai_Parthish_Mandumula
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently pursuing Master's Degree in Computer Science from University  of  Texas at Arlington
 - 💞️ I’m looking to work as DATA ANALYST
